@@ -1,0 +1,100 @@
+{
+  "team_name": "Frogs",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Drake",
+        "last_name": "Maye"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "Jonathan",
+        "last_name": "Taylor"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "Kyren",
+        "last_name": "Williams"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Quentin",
+        "last_name": "Johnston"
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "CeeDee",
+        "last_name": "Lamb"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Sam",
+        "last_name": "LaPorta"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "Rhamondra",
+        "last_name": "Stevenson"
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Chiefs",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Eddy",
+        "last_name": "Pineiro"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "first_name": "Terry",
+        "last_name": "McLaurin"
+      },
+      {
+        "slot_id": 2,
+        "first_name": "RJ",
+        "last_name": "Harvey"
+      },
+      {
+        "slot_id": 3,
+        "first_name": "Zach",
+        "last_name": "Charbonnet"
+      },
+      {
+        "slot_id": 4,
+        "first_name": "Colts",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 5,
+        "first_name": "Justin",
+        "last_name": "Fields"
+      },
+      {
+        "slot_id": 6,
+        "first_name": "Cade",
+        "last_name": "Otton"
+      },
+      {
+        "slot_id": 7,
+        "first_name": "Texans",
+        "last_name": "Defense"
+      }
+    ]
+  }
+}

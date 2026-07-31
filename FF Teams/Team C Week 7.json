@@ -1,0 +1,107 @@
+{
+  "team_name": "Bulldogs",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Baker",
+        "last_name": "Mayfield"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "De'Von",
+        "last_name": "Achane"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "J.K.",
+        "last_name": "Dobbins"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Amon-Ra",
+        "last_name": "St. Brown"
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "Tetairoa",
+        "last_name": "McMillan"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Tyler",
+        "last_name": "Warren"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "Travis",
+        "last_name": "Etienne Jr."
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Seahawks",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Harrison",
+        "last_name": "Butker"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "slot": "BN",
+        "first_name": "Omarion",
+        "last_name": "Hampton"
+      },
+      {
+        "slot_id": 2,
+        "slot": "BN",
+        "first_name": "Tony",
+        "last_name": "Pollard"
+      },
+      {
+        "slot_id": 3,
+        "slot": "BN",
+        "first_name": "Jared",
+        "last_name": "Goff"
+      },
+      {
+        "slot_id": 4,
+        "slot": "BN",
+        "first_name": "Trey",
+        "last_name": "Benson"
+      },
+      {
+        "slot_id": 5,
+        "slot": "BN",
+        "first_name": "Cardinals",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 6,
+        "slot": "BN",
+        "first_name": "Kayshon",
+        "last_name": "Boutte"
+      },
+      {
+        "slot_id": 7,
+        "slot": "BN",
+        "first_name": "Harold",
+        "last_name": "Fannin Jr."
+      }
+    ]
+  }
+}

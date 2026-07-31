@@ -1,0 +1,107 @@
+{
+  "team_name": "Hawks",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Patrick",
+        "last_name": "Mahomes"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "Christian",
+        "last_name": "McCaffrey"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "Javonte",
+        "last_name": "Williams"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Davante",
+        "last_name": "Adams"
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "DK",
+        "last_name": "Metcalf"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Evan",
+        "last_name": "Engram"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "David",
+        "last_name": "Montgomery"
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Steelers",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Joshua",
+        "last_name": "Karty"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "slot": "BN",
+        "first_name": "Brock",
+        "last_name": "Bowers"
+      },
+      {
+        "slot_id": 2,
+        "slot": "BN",
+        "first_name": "Jakobi",
+        "last_name": "Meyers"
+      },
+      {
+        "slot_id": 3,
+        "slot": "BN",
+        "first_name": "Michael",
+        "last_name": "Pittman Jr."
+      },
+      {
+        "slot_id": 4,
+        "slot": "BN",
+        "first_name": "Nick",
+        "last_name": "Chubb"
+      },
+      {
+        "slot_id": 5,
+        "slot": "BN",
+        "first_name": "Aaron",
+        "last_name": "Rodgers"
+      },
+      {
+        "slot_id": 6,
+        "slot": "BN",
+        "first_name": "Elic",
+        "last_name": "Ayomanor"
+      },
+      {
+        "slot_id": 7,
+        "slot": "BN",
+        "first_name": "Noah",
+        "last_name": "Fant"
+      }
+    ]
+  }
+}

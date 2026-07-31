@@ -1,0 +1,107 @@
+{
+  "team_name": "Bananas",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Jaxson",
+        "last_name": "Dart"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "Jahmyr",
+        "last_name": "Gibbs"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "Quinshon",
+        "last_name": "Judkins"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Brian",
+        "last_name": "Thomas Jr."
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "Jaxon",
+        "last_name": "Smith-Njigba"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Michael",
+        "last_name": "Mayer"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "Courtland",
+        "last_name": "Sutton"
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Panthers",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Chad",
+        "last_name": "Ryland"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "slot": "BN",
+        "first_name": "Tee",
+        "last_name": "Higgins"
+      },
+      {
+        "slot_id": 2,
+        "slot": "BN",
+        "first_name": "TreVeyon",
+        "last_name": "Henderson"
+      },
+      {
+        "slot_id": 3,
+        "slot": "BN",
+        "first_name": "Matthew",
+        "last_name": "Golden"
+      },
+      {
+        "slot_id": 4,
+        "slot": "BN",
+        "first_name": "Keon",
+        "last_name": "Coleman"
+      },
+      {
+        "slot_id": 5,
+        "slot": "BN",
+        "first_name": "Josh",
+        "last_name": "Downs"
+      },
+      {
+        "slot_id": 6,
+        "slot": "BN",
+        "first_name": "Dalton",
+        "last_name": "Schultz"
+      },
+      {
+        "slot_id": 7,
+        "slot": "BN",
+        "first_name": "Tez",
+        "last_name": "Johnson"
+      }
+    ]
+  }
+}

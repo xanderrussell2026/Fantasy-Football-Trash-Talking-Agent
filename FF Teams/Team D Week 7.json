@@ -1,0 +1,107 @@
+{
+  "team_name": "Robots",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Daniel",
+        "last_name": "Jones"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "Chase",
+        "last_name": "Brown"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "Jacory",
+        "last_name": "Croskey-Merritt"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Ja'Marr",
+        "last_name": "Chase"
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "Rashee",
+        "last_name": "Rice"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Hunter",
+        "last_name": "Henry"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "Ladd",
+        "last_name": "McConkey"
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Packers",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Will",
+        "last_name": "Lutz"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "slot": "BN",
+        "first_name": "Kenneth",
+        "last_name": "Walker III"
+      },
+      {
+        "slot_id": 2,
+        "slot": "BN",
+        "first_name": "Kyler",
+        "last_name": "Murray"
+      },
+      {
+        "slot_id": 3,
+        "slot": "BN",
+        "first_name": "DeVonta",
+        "last_name": "Smith"
+      },
+      {
+        "slot_id": 4,
+        "slot": "BN",
+        "first_name": "Mark",
+        "last_name": "Andrews"
+      },
+      {
+        "slot_id": 5,
+        "slot": "BN",
+        "first_name": "Jordan",
+        "last_name": "Addison"
+      },
+      {
+        "slot_id": 6,
+        "slot": "BN",
+        "first_name": "Khalil",
+        "last_name": "Shakir"
+      },
+      {
+        "slot_id": 7,
+        "slot": "BN",
+        "first_name": "Tre",
+        "last_name": "Tucker"
+      }
+    ]
+  }
+}

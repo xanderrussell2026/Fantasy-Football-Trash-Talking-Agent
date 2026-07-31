@@ -1,0 +1,107 @@
+{
+  "team_name": "Gizmos",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Bo",
+        "last_name": "Nix"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "Bijan",
+        "last_name": "Robinson"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "Rachaad",
+        "last_name": "White"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Jaylen",
+        "last_name": "Waddle"
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "Chris",
+        "last_name": "Olave"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Jake",
+        "last_name": "Ferguson"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "Drake",
+        "last_name": "London"
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Rams",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Chris",
+        "last_name": "Boswell"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "slot": "BN",
+        "first_name": "Garrett",
+        "last_name": "Wilson"
+      },
+      {
+        "slot_id": 2,
+        "slot": "BN",
+        "first_name": "Stefon",
+        "last_name": "Diggs"
+      },
+      {
+        "slot_id": 3,
+        "slot": "BN",
+        "first_name": "Bills",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 4,
+        "slot": "BN",
+        "first_name": "Kenneth",
+        "last_name": "Gainwell"
+      },
+      {
+        "slot_id": 5,
+        "slot": "BN",
+        "first_name": "Rico",
+        "last_name": "Dowdle"
+      },
+      {
+        "slot_id": 6,
+        "slot": "BN",
+        "first_name": "Jason",
+        "last_name": "Myers"
+      },
+      {
+        "slot_id": 7,
+        "slot": "BN",
+        "first_name": "Spencer",
+        "last_name": "Rattler"
+      }
+    ]
+  }
+}

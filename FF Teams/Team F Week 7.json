@@ -1,0 +1,107 @@
+{
+  "team_name": "Centaurs",
+  "season": 2025,
+  "week": 7,
+  "roster": {
+    "starters": [
+      {
+        "slot_id": 1,
+        "slot": "QB",
+        "first_name": "Dak",
+        "last_name": "Prescott"
+      },
+      {
+        "slot_id": 2,
+        "slot": "RB",
+        "first_name": "Ashton",
+        "last_name": "Jeanty"
+      },
+      {
+        "slot_id": 3,
+        "slot": "RB",
+        "first_name": "Isiah",
+        "last_name": "Pacheco"
+      },
+      {
+        "slot_id": 4,
+        "slot": "WR",
+        "first_name": "Mike",
+        "last_name": "Evans"
+      },
+      {
+        "slot_id": 5,
+        "slot": "WR",
+        "first_name": "Travis",
+        "last_name": "Hunter"
+      },
+      {
+        "slot_id": 6,
+        "slot": "TE",
+        "first_name": "Travis",
+        "last_name": "Kelce"
+      },
+      {
+        "slot_id": 7,
+        "slot": "FLEX",
+        "first_name": "Romeo",
+        "last_name": "Doubs"
+      },
+      {
+        "slot_id": 8,
+        "slot": "D/ST",
+        "first_name": "Eagles",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 9,
+        "slot": "K",
+        "first_name": "Brandon",
+        "last_name": "Aubrey"
+      }
+    ],
+    "bench": [
+      {
+        "slot_id": 1,
+        "slot": "BN",
+        "first_name": "Deebo",
+        "last_name": "Samuel"
+      },
+      {
+        "slot_id": 2,
+        "slot": "BN",
+        "first_name": "Zach",
+        "last_name": "Ertz"
+      },
+      {
+        "slot_id": 3,
+        "slot": "BN",
+        "first_name": "Trevor",
+        "last_name": "Lawrence"
+      },
+      {
+        "slot_id": 4,
+        "slot": "BN",
+        "first_name": "Justice",
+        "last_name": "Hill"
+      },
+      {
+        "slot_id": 5,
+        "slot": "BN",
+        "first_name": "Buccaneers",
+        "last_name": "Defense"
+      },
+      {
+        "slot_id": 6,
+        "slot": "BN",
+        "first_name": "Luke",
+        "last_name": "McCaffrey"
+      },
+      {
+        "slot_id": 7,
+        "slot": "BN",
+        "first_name": "Bam",
+        "last_name": "Knight"
+      }
+    ]
+  }
+}
